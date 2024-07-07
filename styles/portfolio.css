@@ -143,3 +143,28 @@ main section{
     border-radius: 5px;
     box-shadow: 0 6px 50px 0 rgba(0, 0, 0, 0.06);
 }
+
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.experience-subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.experience-description, .experience-subtitle{
+    color: #757575;
+}
+
+.resume hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 24px;
+}
+
+.resume-download-cv{
+    margin-top: 50px;
+}
